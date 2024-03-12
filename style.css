@@ -1,0 +1,36 @@
+body{
+    background-color: #ab77f5;
+}
+.h1{
+    background-color: aqua;
+    color: red;
+    padding: 0.1rem;
+
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11rem;
+    margin-left: 11rem;
+    margin-right: 11rem;
+}
+.hero textarea{
+    width: 100rem;
+    height: 18rem;
+    background-color:#dbfa60;
+    border: 2px solid black;
+}
+.btn button{
+    color: red;
+    width: 20rem;
+    height: 3rem;
+    border-radius: 34px;
+    margin-top: 2rem;
+    margin-left: 35rem;
+    background-color: yellow;
+
+}
+.btn button:hover{
+    cursor: pointer;
+}
